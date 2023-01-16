@@ -1,4 +1,12 @@
 {
+  "Product": [
+    {
+      "name": "Meow Basic"
+    },
+    {
+      "name": "Meow Premium"
+    }
+  ],
   "Post": {
     "_": {
       "items": 10
